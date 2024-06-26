@@ -1,5 +1,5 @@
 Welcome to Java Home Cloud
 Hari Kammana
 Banglore
-Java,AWS,DevOps,Python, Kubernetes, Docker
+Java,AWS,DevOps,Python
 17 years experience
